@@ -12,7 +12,7 @@ If we assume the wall can be modeled with a line $y=mx + c$, we want to solve fo
 
 # Getting Started
 
-To run the code, you may need to install some dependencies. I recommend starting a virtual environment and installing the dependencies there.
+To run the code, you may need to install some dependencies. I recommend starting a [virtual environment](https://docs.python.org/3/library/venv.html) and installing the dependencies there.
 
 Dependencies:
 - numpy
