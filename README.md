@@ -4,7 +4,7 @@ Starter code for CSCI 497F / 597F at WWU University.
 
 Assume we have a stationary robot, facing along the x-axis ($\theta = 0$ on the unit circle).
 
-The robot emits lasers in all directions, and measures the distance and apparent angle of the nearest obstacle (if one exists).
+The robot has 20 rangefinders that are equally spaced on a circular sensor at the center of the robot, which measure the distance and apparent angle of the nearest obstacle (if one exists).
 
 The program defines the start and end points of a line segment representing a single wall in the environment. Our goal is to figure out where this wall is, by transforming the data into an (x,y) coordinate frame and using linear least squares.
 
